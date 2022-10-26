@@ -28,8 +28,8 @@ const HomeScreen = () => {
       <div className="intro0">
        
         <div className="head w3-container">
-          <h1 id="title"><u>SHAKSHAM</u></h1>
-          <h3>A Marketplace for Handicpped</h3>
+          <h1 id="title"><u>SAKSHAM</u></h1>
+          <h3>A Marketplace for Specially Abled</h3>
 
           <p id="info" className="w3-left w3-animate-left">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis beatae, mollitia dolore quas cumque,

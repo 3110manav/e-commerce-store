@@ -29,7 +29,7 @@ const Navbar = ({click}) => {
     <nav className="navbar">
       <div className="navbar__logo">
         <Link to="/">
-        <h2>Shaksham</h2>
+        <h2>Saksham</h2>
         </Link>
       </div>
 
