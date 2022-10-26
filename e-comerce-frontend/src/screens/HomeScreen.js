@@ -42,11 +42,11 @@ const HomeScreen = () => {
         </div>
       </div>
 
-      <div class="intro1">
-        <div class="rect1 reveal">
-          <img id="ngo1" src="../src/images/ngo1a.jpg" alt="Prarambh NGO Image"/>
+      <div className="intro1">
+        <div className="rect1 reveal">
+          <img id="ngo1" src="ngo1a.jpg" alt="Prarambh NGO Image"/>
         </div>
-        <div class="rect2 reveal">
+        <div className="rect2 reveal">
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nostrum commodi vitae! Maxime, vel
                 tenetur
