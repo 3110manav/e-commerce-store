@@ -44,7 +44,7 @@ const HomeScreen = () => {
 
       <div class="intro1">
         <div class="rect1 reveal">
-          <img id="ngo1" src="./src/images/ngo1a.jpg" alt="Prarambh NGO Image"/>
+          <img id="ngo1" src="../src/images/ngo1a.jpg" alt="Prarambh NGO Image"/>
         </div>
         <div class="rect2 reveal">
             <p>
