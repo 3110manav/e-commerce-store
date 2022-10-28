@@ -46,8 +46,15 @@ const ProductScreen = ({match, history}) => {
               <p className="left__name">{product.name}</p>
               <p>Price: Rs{product.price}</p>
               <p>Description: {product.description}</p>
+              
+              
+
+              </div>
+
             </div>
+            
           </div>
+          
           <div className="productscreen__right">
             <div className="right__info">
               <p>

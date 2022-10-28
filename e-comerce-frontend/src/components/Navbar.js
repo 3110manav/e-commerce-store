@@ -47,6 +47,10 @@ const Navbar = ({click}) => {
           <Link to="/shop">Shop</Link>
         </li>
 
+        {/* <li className="push">
+                    <button id="donateBtn" class="buton"> Dontne Now </button>
+                </li> */}
+
         {!user.userInfo.isLogin ? (
           <li>
             <Link to="/signin">Login</Link>

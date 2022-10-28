@@ -129,6 +129,31 @@ a:hover {
     padding-left: 1rem;
 }
 
+.push {
+  margin-left: 40rem;
+}
+
+.buton {
+  text-decoration: none;
+  padding: .5rem;
+  background-color: #00ffbf;
+  border-radius: 1rem;
+  cursor: pointer;
+  box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+  transition: 0.2s all;
+  display: inline;
+  color: rgb(132, 67, 67);
+  font-family: "Monospace,Monaco";
+  font-weight: 100px;
+  font-size: 20px;
+}
+
+.buton:active {
+  transform: scale(0.66);
+  /* Scaling button to 0.98 to its original size */
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+  /* Lowering the shadow */
+}
 .intro1 {
     background-image: url("../images/floor1.jpg"); 
     background-size: 100% 100vh;
